@@ -1,0 +1,22 @@
+body{
+    background-image:url(/1736446.jpg);
+    background-position: cover;
+    text-align: center;
+    color: white;
+}
+footer{background-color:black}
+footer p{text-align:center;
+    padding-top: 20px;
+    font-size: 50px;
+    font-weight: 
+}
+.akan {
+    float: left;
+    width: 25%;
+}  
+.pencil {
+    height: 20px;
+}
+ul{
+    list-style-type: none;
+}
