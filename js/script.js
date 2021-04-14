@@ -38,6 +38,15 @@ function calculate() {
 	
 		alert("Please select your gender");
 	}
+
+
+
+    document.getElementById("century").value = '';
+    document.getElementById("year").value = '';
+    document.getElementById("month").value = '';
+    document.getElementById("day").value = '';
+    male.checked = false;
+    female.checked = false;
 	
 }
 	
